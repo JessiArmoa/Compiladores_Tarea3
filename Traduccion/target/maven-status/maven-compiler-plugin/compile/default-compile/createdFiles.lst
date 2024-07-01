@@ -1,0 +1,5 @@
+Main.class
+TokenType.class
+AnalizadorLex.class
+Parser.class
+Token.class
